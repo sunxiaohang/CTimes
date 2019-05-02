@@ -1,0 +1,47 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.sunxiaohang.root.ctimes.NewsDetailsActivity">
+    <item
+        android:id="@+id/action_inbox"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_mail_outline_black_24dp"
+        android:title="@string/action_inbox"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_github"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_github_black_24dp"
+        android:title="@string/action_github"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_blog"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_blog_circle_black_24dp"
+        android:title="@string/action_blog"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_android"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="@string/action_android"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_about_black_24dp"
+        android:title="@string/action_about"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="@string/action_exit"
+        app:showAsAction="never" />
+</menu>

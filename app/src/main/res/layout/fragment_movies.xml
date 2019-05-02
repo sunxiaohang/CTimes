@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginTop="@dimen/actionbarHeight"
+    android:layout_marginBottom="50dp"
+    tools:context=".MoviesFragment">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/indicatorHeight"
+        android:background="@color/colorPrimary"
+        android:gravity="center">
+        <net.lucode.hackware.magicindicator.MagicIndicator
+            android:id="@+id/movies_indicator"
+            android:layout_width="310dp"
+            android:layout_height="@dimen/indicatorHeight"
+            android:background="@color/colorPrimary"/>
+    </LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:id="@+id/movies_view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/text_margin"
+        android:layout_marginRight="@dimen/text_margin"
+        android:layout_marginTop="@dimen/actionbarHeight"/>
+    <com.wang.avi.AVLoadingIndicatorView
+        android:id="@+id/av_loading_indicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/AVLoadingIndicatorView"
+        android:layout_gravity="center"
+        android:visibility="visible"
+        app:indicatorName="LineScaleIndicator"
+        app:indicatorColor="@color/colorPrimary" />
+</FrameLayout>

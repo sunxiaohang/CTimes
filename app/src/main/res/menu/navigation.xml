@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_stories"
+        android:icon="@drawable/ic_popular_black_24dp"
+        android:title="@string/title_stories" />
+    <item
+        android:id="@+id/navigation_books"
+        android:icon="@drawable/ic_import_contacts_black_24dp"
+        android:title="@string/title_wallpaper" />
+    <item
+        android:id="@+id/navigation_media"
+        android:icon="@drawable/ic_media_black_24dp"
+        android:title="@string/title_media" />
+    <item
+        android:id="@+id/navigation_geographic"
+        android:icon="@drawable/ic_photographic_black_24dp"
+        android:title="@string/title_geographic" />
+</menu>

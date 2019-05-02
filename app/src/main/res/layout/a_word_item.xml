@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/text_margin"
+    android:orientation="horizontal">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="0dp"
+        android:layout_weight="5"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/a_word_hitokoto_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:lineSpacingMultiplier="1.5"
+            android:textColor="#000000"
+            android:text="谁知，蓝忘机自始至终一眼都没有分给过温宁，只是死死盯牢了他。两人就这么你拉着我、我拽着你，面对面地瞪眼。"/>
+        <TextView
+            android:id="@+id/a_word_from_text_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="-- 夏目友人帐"/>
+    </LinearLayout>
+    <ImageButton
+        android:id="@+id/btn_unCollection_aWord"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        android:src="@drawable/ic_star_black_24dp"/>
+</LinearLayout>
