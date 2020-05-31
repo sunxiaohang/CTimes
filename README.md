@@ -6,14 +6,17 @@
 
 #### 新闻部分
 
-![2019151570](./screenshot/2019151570.jpg)![1347420539](./screenshot/1347420539.jpg)
+<img src="./screenshot/2019151570.jpg" width="400px" height = "800px"/>
 
 #### 电影部分
-![1345148324](./screenshot/1345148324.jpg/)![2028509327](./screenshot/2028509327.jpg)
+<img src="./screenshot/1345148324.jpg" width="400px" height = "800px"/>
 
 ### 图书媒体部分
-
-![1144949129](./screenshot/1144949129.jpg)![2088761009](./screenshot/2088761009.jpg)![1378131627](./screenshot/1378131627.jpg)![266265116](./screenshot/266265116.jpg)
+<img src="./screenshot/1144949129.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/2088761009.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/1378131627.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/266265116.jpg" width="400px" height = "800px"/>
 
 #### 主题附加
-![771460368](./screenshot/771460368.jpg)![1125606922](./screenshot/1125606922.jpg)
+<img src="./screenshot/771460368.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/1125606922.jpg" width="400px" height = "800px"/>
