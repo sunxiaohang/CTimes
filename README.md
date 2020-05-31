@@ -11,11 +11,8 @@
 <img src="./screenshot/1345148324.jpg" width="400px" height = "800px"/>
 
 ### 图书媒体部分
-<span src="./screenshot/1144949129.jpg" width="400px" height = "800px"/>
-<span src="./screenshot/2088761009.jpg" width="400px" height = "800px"/>
-<span src="./screenshot/1378131627.jpg" width="400px" height = "800px"/>
-<span src="./screenshot/266265116.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/1144949129.jpg" width="400px" height = "800px"/><img src="./screenshot/2088761009.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/1378131627.jpg" width="400px" height = "800px"/><img src="./screenshot/266265116.jpg" width="400px" height = "800px"/>
 
 #### 主题附加
-<span src="./screenshot/771460368.jpg" width="400px" height = "800px"/>
-<span src="./screenshot/1125606922.jpg" width="400px" height = "800px"/>
+<img src="./screenshot/771460368.jpg" width="400px" height = "800px"/><img src="./screenshot/1125606922.jpg" width="400px" height = "800px"/>
