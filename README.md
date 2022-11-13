@@ -5,7 +5,7 @@
 ## 项目截图
 
 #### 新闻部分
-<img src="./screenshot/2019151570.jpg" width="400px" height = "800px"/>
+<img src="https://github.com/sunxiaohang/CTimes/blob/master/screenshot/2019151570.jpg" width="400px" height = "800px"/>
 
 #### 电影部分
 <img src="./screenshot/1345148324.jpg" width="400px" height = "800px"/>
